@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 20px;
+    font-family: "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-sans;
+    ;
+}
+
+Html,
+body {
+    display: grid;
+    place-items: center;
+}
+
+.display #time {
+    font-size: 150px;
+    color: rgb(88, 86, 84);
+}
